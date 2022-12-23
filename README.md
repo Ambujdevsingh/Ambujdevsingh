@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi!!!!🧑‍🎓🪸, I'm Ambuj Singh</h1>
-<h3 align="center">An Aspiring ML Data Scientist from India</h3>
+<h3 align="center">Aspiring ML Data Scientist from India</h3>
 
 <h4 align="center">1+ years of Technical Experience in Business Intelligence, Data Analysis and Visualization, Advanced Analytics, Support, and Implementation using BI Tools. Exceptional skill in BI environments. Creative solutions with real-time problem-solving flexibility. Proven to understand customer requirements & translate them into actionable project plans. Dedicated and hard-working with a passion for Big Data.</h4>
 
