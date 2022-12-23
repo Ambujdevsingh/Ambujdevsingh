@@ -10,7 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambujdevsingh&label=Profile%20views&color=0e75b6&style=flat" alt="ambujdevsingh" /> </p>
 <img align="right" alt="Coding" width="300" src="https://intellipaat.com/blog/wp-content/uploads/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
+
  ✅ Data Analytics Associate [TCS]  (jan 2022 , Present)
+
 
  🧩 I’m currently learning **Machine Learning , AI, DL**
 
