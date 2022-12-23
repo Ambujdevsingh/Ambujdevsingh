@@ -9,6 +9,8 @@
 <h4 align="center">1+ years of Technical Experience in Business Intelligence, Data Analysis and Visualization, Advanced Analytics, Support, and Implementation using BI Tools. Exceptional skill in BI environments. Creative solutions with real-time problem-solving flexibility. Proven to understand customer requirements & translate them into actionable project plans. Dedicated and hard-working with a passion for Big Data.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambujdevsingh&label=Profile%20views&color=0e75b6&style=flat" alt="ambujdevsingh" /> </p>
+
+
 <img align="right" alt="Coding" width="300" src="https://intellipaat.com/blog/wp-content/uploads/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
 
  ✅ Data Analytics Associate [TCS]  (jan 2022 , Present)
@@ -25,7 +27,9 @@
 <h3 align="left">Key Skills</h3>
 
  ✅ Machine Learning: Regression Analysis, Time Series Forecasting & Model Building, Logistic Regression, Decision Trees.
-
+ 
+ 
+ <img align="right" alt="Coding" width="480" src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif">
 
  ✅ Analytics / Programming Languages: Python, R, SQL, Advance-Excel.
 
@@ -36,6 +40,7 @@
  ✅ Databases: MySQL, Oracle, MongoDB.
  
  <h3 align="left">Educational Qualification</h3>
+
  
  🏆 PG [Data Science & Businesss Intelligence] IIM-Indore (IPBA) 2022-23 
 
