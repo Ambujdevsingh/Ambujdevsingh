@@ -10,15 +10,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambujdevsingh&label=Profile%20views&color=0e75b6&style=flat" alt="ambujdevsingh" /> </p>
 <img align="right" alt="Coding" width="300" src="https://intellipaat.com/blog/wp-content/uploads/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
-- ✅ Data Analytics Associate [TCS]  (jan 2022 , Present)
+ ✅ Data Analytics Associate [TCS]  (jan 2022 , Present)
 
-- 🧩 I’m currently learning **Machine Learning , AI, DL**
+ 🧩 I’m currently learning **Machine Learning , AI, DL**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ambuj-singh-81a5191a9/](https://www.linkedin.com/in/ambuj-singh-81a5191a9/)
+ 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ambuj-singh-81a5191a9/](https://www.linkedin.com/in/ambuj-singh-81a5191a9/)
 
-- 💬 Ask me about **Data Science , Business Intelligence**
+ 🛡️ Ask me about **Data Science , Business Intelligence**
 
-- 📫 How to reach me **ambujdevsingh1998@gmail.com, +91-7458910018**
+ 📫 How to reach me **ambujdevsingh1998@gmail.com, +91-7458910018**
 
 <h3 align="left">Key Skills</h3>
 
