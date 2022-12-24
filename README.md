@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
+![MasterHead]( https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
 
 
 <h1 align="center">Hi!!!!🧑‍🎓🪸, I'm Ambuj Singh</h1>
