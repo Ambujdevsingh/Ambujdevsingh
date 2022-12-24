@@ -29,7 +29,7 @@
  ✅ Machine Learning: Regression Analysis, Time Series Forecasting & Model Building, Logistic Regression, Decision Trees.
  
  
- <img align="right" alt="Coding" width="480" src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif">
+ <img align="right" alt="Coding" width="480" height="200" src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif">
 
  ✅ Analytics / Programming Languages: Python, R, SQL, Advance-Excel.
 
