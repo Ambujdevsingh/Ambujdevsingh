@@ -8,6 +8,17 @@
 
 <h4 align="center" style="text-align: justify; max-width: 800px; margin: auto;">Strategic Product Manager/ Owner with ~4 years of experience in SaaS, DaaS Product Development, user research and business intelligence. Adept at leveraging Generative AI, UI/UX, and Data Science & Analytics to drive impactful solutions. Proven expertise in market research, competitor analysis, and roadmap execution to identify trends and customer needs. Skilled in Requirement gathering, PRD, FRS, UAT, and stakeholder collaboration to ensure seamless product delivery. Strong background in business strategy, AI-driven product innovation, and go-to-market execution. Passionate about Solving Industry Specific Problems & Cater solutions for Fintech, Domain Specific Consulting problem, E-Commerce, Data Solutions.</h4>
 
+<div style="max-width: 800px; margin: auto; text-align: justify;">
+  <h4 style="text-align: justify;">
+    Strategic Product Manager/Owner with ~4 years of experience in SaaS, DaaS Product Development, user research, and business intelligence. 
+    Adept at leveraging Generative AI, UI/UX, and Data Science & Analytics to drive impactful solutions. 
+    Proven expertise in market research, competitor analysis, and roadmap execution to identify trends and customer needs. 
+    Skilled in requirement gathering, PRD, FRS, UAT, and stakeholder collaboration to ensure seamless product delivery. 
+    Strong background in business strategy, AI-driven product innovation, and go-to-market execution. 
+    Passionate about solving industry-specific problems and delivering tailored solutions for Fintech, domain-specific consulting, e-commerce, and data solutions.
+  </h4>
+</div>
+
 
 <img align="right" alt="Coding" width="300" src="https://intellipaat.com/blog/wp-content/uploads/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
 
