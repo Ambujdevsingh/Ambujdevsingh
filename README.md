@@ -6,21 +6,25 @@
 <h1 align="center">Hi!!!!🧑‍🎓🪸, I'm Ambuj Dev Singh</h1>
 <h3 align="center">Associate Product Manager with experties of ML & AI and experience into Saas & DaaS Products</h3>
 
-<h4 align="center">1+ years of Technical Experience in Business Intelligence, Data Analysis and Visualization, Advanced Analytics, Support, and Implementation using BI Tools. Exceptional skill in BI environments. Creative solutions with real-time problem-solving flexibility. Proven to understand customer requirements & translate them into actionable project plans. Dedicated and hard-working with a passion for Big Data.</h4>
+<h4 align="center">Strategic Product Manager/ Owner with ~4 years of experience in SaaS, DaaS Product Development, user research and business intelligence. Adept at
+leveraging Generative AI, UI/UX, and Data Science & Analytics to drive impactful solutions. Proven expertise in market research, competitor analysis,
+and roadmap execution to identify trends and customer needs. Skilled in Requirement gathering, PRD, FRS, UAT, and stakeholder collaboration to
+ensure seamless product delivery. Strong background in business strategy, AI-driven product innovation, and go-to-market execution. Passionate
+about Solving Industry Specific Problems & Cater solutions for Fintech, Domain Specific Consulting problem, E-Commerce, Data Solutions.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambujdevsingh&label=Profile%20views&color=0e75b6&style=flat" alt="ambujdevsingh" /> </p>
 
 
 <img align="right" alt="Coding" width="300" src="https://intellipaat.com/blog/wp-content/uploads/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
 
- ✅ Data Analytics Associate [TCS]  (jan 2022 , Present)
+ ✅ Innovador Infotech Pvt. Ltd. – Associate Product Manager- Analytics and AI  (July 2024 , Present)
+ ✅ Tata Consultancy Services Pvt. Ltd. – Sr. Business Analyst- Data Analytics (Jan 2022 , July 2024)
 
-
- 🧩 I’m currently learning **Machine Learning , AI, DL**
+ 🧩 I’m currently learning **Gen AI, Product Strategy, PDLC & Business Outcome**
 
  👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ambuj-singh-81a5191a9/](https://www.linkedin.com/in/ambuj-singh-81a5191a9/)
 
- 🛡️ Ask me about **Data Science , Business Intelligence**
+ 🛡️ Ask me about **Data Science, Business Intelligence, Product Life Cycle Management, Gen AI & AI Agents**
 
  📫 How to reach me **ambujdevsingh1998@gmail.com, +91-7458910018**
 
@@ -28,10 +32,17 @@
 
  ✅ Machine Learning: Regression Analysis, Time Series Forecasting & Model Building, Logistic Regression, Decision Trees.
  
- 
+ ✅ Product Management: Product Lifecycle Management, Feature Prioritization, Product Roadmap, Product Metrics Tracking, Product Lifecycle Management, Product Strategy & Vision, GTM Strategy
+    Market Research, PRD, FRS, SRS, BRD, MRD, Customer Journey
+ ✅ UI/UX Design: Wireframing and Prototyping (Figma, Xmind.ai, Adobe XD), User Research, Usability Testing, User Story Creation, Design thinking
+ ✅ API Integration: Data API, Financial Payments API
+ ✅ Project Management Tools: Jira, Asana, Trello, Agile, Waterfall
+ ✅ Analytics & Business Intelligence: Advance Excel, Power BI, Tableau, Google Analytics, Mixpanel
+ ✅ Business Requirement: Requirement Gathering, Stakeholder Management
+ ✅ No-Code Gen AI Products: Prompt Engineering
  <img align="right" alt="Coding" width="400" height="230" src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif">
 
- ✅ Analytics / Programming Languages: Python, R, SQL, Advance-Excel.
+ ✅ Programming Languages: Python, R, SQL, Advance-Excel.
 
  ✅ Visualization / BI tools: Power Bi & DAX, Tableau, Google Data Studio.
 
@@ -41,9 +52,9 @@
  
  <h3 align="left">Educational Qualification</h3>
 
+ 🏆 PGC [Financial Data Analytics] IIM-Kashipur (EDPFDA) 2023-24 
  
  🏆 PG [Data Science & Businesss Intelligence] IIM-Indore (IPBA) 2022-23 
-
 
  🏆 UG [Mechanical Engineering] (honours) PSIT, Kanpur 90% 2017-21
  
