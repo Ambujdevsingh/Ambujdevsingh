@@ -18,6 +18,7 @@ about Solving Industry Specific Problems & Cater solutions for Fintech, Domain S
 <img align="right" alt="Coding" width="300" src="https://intellipaat.com/blog/wp-content/uploads/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
 
  ✅ Innovador Infotech Pvt. Ltd. – Associate Product Manager- Analytics and AI  (July 2024 , Present)
+ 
  ✅ Tata Consultancy Services Pvt. Ltd. – Sr. Business Analyst- Data Analytics (Jan 2022 , July 2024)
 
  🧩 I’m currently learning **Gen AI, Product Strategy, PDLC & Business Outcome**
@@ -34,12 +35,19 @@ about Solving Industry Specific Problems & Cater solutions for Fintech, Domain S
  
  ✅ Product Management: Product Lifecycle Management, Feature Prioritization, Product Roadmap, Product Metrics Tracking, Product Lifecycle Management, Product Strategy & Vision, GTM Strategy
     Market Research, PRD, FRS, SRS, BRD, MRD, Customer Journey
+    
  ✅ UI/UX Design: Wireframing and Prototyping (Figma, Xmind.ai, Adobe XD), User Research, Usability Testing, User Story Creation, Design thinking
+ 
  ✅ API Integration: Data API, Financial Payments API
+ 
  ✅ Project Management Tools: Jira, Asana, Trello, Agile, Waterfall
+ 
  ✅ Analytics & Business Intelligence: Advance Excel, Power BI, Tableau, Google Analytics, Mixpanel
+ 
  ✅ Business Requirement: Requirement Gathering, Stakeholder Management
+ 
  ✅ No-Code Gen AI Products: Prompt Engineering
+ 
  <img align="right" alt="Coding" width="400" height="230" src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif">
 
  ✅ Programming Languages: Python, R, SQL, Advance-Excel.
