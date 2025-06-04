@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://intellipaat.com/blog/wp-content/uploads/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
 
- ✅ Innovador Infotech Pvt. Ltd. – Associate Product Manager- Analytics and AI  (July 2024 , Present)
+ ✅ Innovador Infotech Pvt. Ltd. – Associate Product Manager- Analytics and AI | Building UP MSME 1 Connect | (July 2024 , Present)
  
  ✅ Tata Consultancy Services Pvt. Ltd. – Sr. Business Analyst- Data Analytics (Jan 2022 , July 2024)
 
