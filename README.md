@@ -43,7 +43,7 @@
  
  ✅ No-Code Gen AI Products: Prompt Engineering
  
- <img align="right" alt="Coding" width="400" height="230" src="[https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif](https://images.app.goo.gl/L3UdPcb2u58syeg78)">
+ <img align="right" alt="Coding" width="400" height="230" src="https://miro.medium.com/v2/resize:fit:1400/1*G4vu-tmakTMTXmcrL4rqug.gif">
 
  ✅ Programming Languages: Python, R, SQL, Advance-Excel.
 
