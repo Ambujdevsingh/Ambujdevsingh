@@ -142,6 +142,57 @@
 </p>
 
 
+🎨 UI/UX Design
+Wireframing & Prototyping Tools:
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="Adobe XD" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/xmind/xmind-icon.svg" alt="Xmind" width="40" height="40"/>
+
+User Research & Usability Testing
+
+User Story Creation & Persona Building
+
+Design Thinking Methodology
+
+🔌 API Integration
+Data APIs
+
+Financial Payment APIs
+
+🛠️ Project Management Tools & Methodologies
+Tools:
+<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="Jira" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" alt="Asana" width="40" height="40"/>
+
+Methodologies: Agile, Waterfall
+
+📊 Analytics & Business Intelligence
+Tools:
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mixpanel/mixpanel-icon.svg" alt="Mixpanel" width="40" height="40"/>
+
+Advanced Excel
+
+📄 Business & Product Requirements
+Requirement Gathering & Documentation
+
+Stakeholder Communication & Management
+
+🤖 No-Code & Generative AI Products
+Prompt Engineering
+
+AI Agents for Workflow Automation
+
+🧠 Generative AI Product Management
+AI Strategy & Use Case Identification
+
+Integration of Gen AI into Product Features
+
+Managing AI-Driven User Experiences
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambujdevsingh&show_icons=true&locale=en" alt="ambujdevsingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambujdevsingh&" alt="ambujdevsingh" /></p>
